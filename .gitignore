@@ -1,0 +1,26 @@
+# Archivos y carpetas generados por Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Archivos y carpetas relacionados con el entorno virtual
+venv/
+env/
+
+# Base de datos de SQLite
+*.sqlite3
+
+# Archivos de logs
+*.log
+
+# Archivos de configuraciones de entorno
+*.env
+
+# Archivos generados por Django
+*.pot
+*.pyc
+
+# Archivos de caché y temporales
+*.bak
+*.swp
